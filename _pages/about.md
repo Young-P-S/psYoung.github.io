@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Lab of Biocatalysis and Enzyme Engineering(生物催化和酶工程实验室)"
 author_profile: true
 redirect_from: 
   - /about/
